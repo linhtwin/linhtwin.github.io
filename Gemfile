@@ -28,5 +28,10 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-
 gem "webrick", "~> 1.7"
+
+# TODO: switch to gem once https://github.com/hydecorp/hydejack/issues/285 fixed.
+# gem "jekyll-theme-hydejack"
+# Once the above works, we can remove these two.
+gem "jekyll-remote-theme"
+gem "jekyll-include-cache"
