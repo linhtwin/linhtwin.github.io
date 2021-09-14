@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Meal Club
+permalink: /meal-club/
 ---
 
 ## Why are you doing this?

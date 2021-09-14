@@ -65,3 +65,6 @@ menu:
     url: /events
   - title: Shop
     url: /shop
+
+hydejack:
+  no_breadcrumbs: true

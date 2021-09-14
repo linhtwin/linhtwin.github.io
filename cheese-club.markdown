@@ -1,6 +1,7 @@
 ---
 title: Cheese Club
 layout: page
+permalink: /cheese-club/
 ---
 
 ## Why should I buy a cheese box?
