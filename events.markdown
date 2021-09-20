@@ -37,6 +37,7 @@ Classes will occur once in a while.  To be in the know, please sign up for the n
     <strong>Food </strong>
     <ul><li><input type="checkbox" value="1" name="group[80245][1]" id="mce-group[80245]-80245-0"><label for="mce-group[80245]-80245-0">Cheese club</label></li>
 <li><input type="checkbox" value="2" name="group[80245][2]" id="mce-group[80245]-80245-1"><label for="mce-group[80245]-80245-1">Meals</label></li>
+<li><input type="checkbox" value="4" name="group[80245][4]" id="mce-group[80245]-80245-2"><label for="mce-group[80245]-80245-2">Classes and events</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear">
