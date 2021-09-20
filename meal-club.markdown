@@ -42,7 +42,7 @@ Enough food for a normal size entree.  Sometimes it will be rice with a few dish
 
 ## How do I sign up?
 
-Space is very limited.  Currently, ordering is by invitation only.  If you’d like to join, please get in touch with me at linh@linh.win
+Space is very limited.  Currently, ordering is by invitation only.  If you’d like to join, please [email me](mailto:{{ site.author.social.email }}).
 
 ## Check out some recent meals
 
