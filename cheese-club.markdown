@@ -31,6 +31,7 @@ $40 per box
 Pickup is at Forage Kitchen, 478 25th Street, Oakland.
 Delivery will be available locally to addresses in Berkeley, Piedmont, Oakland, and Emeryville (+$5)
 
+
 <div id='product-component-1631411958591'></div>
 <script type="text/javascript">
 /*<![CDATA[*/

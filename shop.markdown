@@ -5,7 +5,7 @@ layout: plain
 
 ## Cheese and wine
 
-<div id='collection-component-1631414336328'></div>
+<div id='collection-component-1632106885949'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -34,7 +34,7 @@ layout: plain
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: '277020868798',
-        node: document.getElementById('collection-component-1631414336328'),
+        node: document.getElementById('collection-component-1632106885949'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -45,11 +45,27 @@ layout: plain
           "margin-left": "20px",
           "margin-bottom": "50px",
           "width": "calc(25% - 20px)"
+        },
+        "img": {
+          "height": "calc(100% - 15px)",
+          "position": "absolute",
+          "left": "0",
+          "right": "0",
+          "top": "0"
+        },
+        "imgWrapper": {
+          "padding-top": "calc(75% + 15px)",
+          "position": "relative",
+          "height": "0"
         }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -96,5 +112,3 @@ layout: plain
 })();
 /*]]>*/
 </script>
-
-## Meals

@@ -4,9 +4,13 @@ title: Meal Club
 permalink: /meal-club/
 ---
 
+## What is meal club?
+
+The meal club is a once a week meal pickup.  Each meal comes packed in reusable/exchangeable containers and are always vegetarian.  The goal behind these meals is to introduce people to new flavors, personal stories, and unfamiliar cultures.
+
 ## Why are you doing this?
 
-I love traveling and eating the things that make a place special.  My way of revisiting a place or a memory is usually through revisiting the flavors of that place.  At most restaurants, you are being sold a delicious thing to nourish you.  In addition to giving you something tasty and nutritious to eat, I want the meals to give you more of an understanding of what it is you are eating.  I want you to know where that dish comes from, how people eat it and why it is eaten.
+I love traveling and eating the things that make a place special.  My way of revisiting a place or a memory is usually through revisiting the flavors of that place.  At most restaurants, you are being sold a delicious thing that also (hopefully) nourishes you.  In addition to giving you something tasty and nutritious to eat, I want the meals to give you more of an understanding of what it is you are eating.  I want you to know where that dish comes from, how people eat it and why it is eaten.
 
 I want you to take the time to travel to another place or another time when you eat these meals.
 
@@ -20,12 +24,13 @@ You will get 2 containers for every main meal that are dishwasher/microwave safe
 
 Each meal will also come with reheating instructions, a guide on how to serve the food and descriptions on each individual dish.
 
-## How often do you get meals if you subscribe?
+## How often do you get meals if you join?
 
 Meals will be available for pickup every Thursday of the month.
 
 ## How do you get the food?
 
+Pickup is in south Berkeley.
 
 ## How much will it cost?
 
@@ -35,4 +40,10 @@ There is a one time membership fee of $15.  Main meal is $15.  Dessert/extra is 
 
 Enough food for a normal size entree.  Sometimes it will be rice with a few dishes.  Sometimes it will be one main dish.
 
-(most recent newsletters)
+## How do I sign up?
+
+Space is very limited.  Currently, ordering is by invitation only.  If you’d like to join, please get in touch with me at linh@linh.win
+
+## Check out some recent meals
+
+[On Instagram]({{ site.data.social.instagram.prepend }}{{ site.author.social.instagram }}).
