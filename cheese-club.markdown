@@ -4,6 +4,10 @@ layout: page
 permalink: /cheese-club/
 ---
 
+* this unordered seed list will be replaced by the table of contents
+{:toc}
+
+
 ## Why should I buy a cheese box?
 
 These cheese boxes will contain things that you cannot get at the grocery store, farmer’s market or even at your local cheese shop.  It contains my connections with distributors and producers.  It contains my experience and guidance.  It contains cheeses that are freshly cut hours before you get your hands on them.
@@ -22,11 +26,120 @@ Two accompaniments
 Info sheet that gives you fun facts, production details, plating and pairing suggestions
 A link for those who want to join in (or watch recording later of) an online cheese chat with me and sometimes special guests.
 
-## How much does it cost?
-
-$40 per box
-
 ## How do I get my cheese box?
 
-Pickup is at Forage Kitchen, 478 25th Street, Oakland.
-Delivery will be available locally to addresses in Berkeley, Piedmont, Oakland, and Emeryville (+$5)
+Order below for pickup or delivery **on the date shown** in the product title.
+
+Pickup is at [Forage Kitchen, 478 25th Street, Oakland](https://g.page/forage-kitchen-oakland?share).
+
+Delivery available in Berkeley, Piedmont, Oakland, and Emeryville (+$5).
+
+## Order
+
+<div id='collection-component-1632106885949'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'linh-food.myshopify.com',
+      storefrontAccessToken: 'f5b203bf0ff8b44dd5e95561787d747f',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('collection', {
+        id: '277020868798',
+        node: document.getElementById('collection-component-1632106885949'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px",
+          "width": "calc(25% - 20px)"
+        },
+        "img": {
+          "height": "calc(100% - 15px)",
+          "position": "absolute",
+          "left": "0",
+          "right": "0",
+          "top": "0"
+        },
+        "imgWrapper": {
+          "padding-top": "calc(75% + 15px)",
+          "position": "relative",
+          "height": "0"
+        }
+      }
+    },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
+    "text": {
+      "button": "View product"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "option": {},
+  "cart": {
+    "text": {
+      "total": "Subtotal",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {}
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>

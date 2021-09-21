@@ -64,8 +64,6 @@ menu:
     url: /meal-club
   - title: Classes & Events
     url: /events
-  - title: Shop
-    url: /shop
 
 hydejack:
   no_breadcrumbs: true
