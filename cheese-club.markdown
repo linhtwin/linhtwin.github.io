@@ -21,10 +21,11 @@ This club is for cheese adventurists.  These cheeses are ones that have stories 
 It’s a surprise!  You will not know ahead of time what types of cheeses or accompaniments are in the box.  It will be up to me to decide.
 
 The box will include:
-Three types of cheese, roughly about one pound, enough for a cheese course for four people.
-Two accompaniments
-Info sheet that gives you fun facts, production details, plating and pairing suggestions
-A link for those who want to join in (or watch recording later of) an online cheese chat with me and sometimes special guests.
+
+* Three types of cheese, roughly about one pound, enough for a cheese course for four people.
+* Two accompaniments.
+* Info sheet that gives you fun facts, production details, plating and pairing suggestions.
+* A link for those who want to join in (or watch recording later of) an online cheese chat with me and sometimes special guests.
 
 ## How do I get my cheese box?
 
