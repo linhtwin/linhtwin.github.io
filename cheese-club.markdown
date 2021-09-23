@@ -22,7 +22,7 @@ It’s a surprise!  You will not know ahead of time what types of cheeses or acc
 
 The box will include:
 
-* Three types of cheese, roughly about one pound, enough for a cheese course for four people.
+* Three types of cheese, totalling roughly one pound, enough for a cheese course for four people.
 * Two accompaniments.
 * Info sheet that gives you fun facts, production details, plating and pairing suggestions.
 * A link for those who want to join in (or watch recording later of) an online cheese chat with me and sometimes special guests.
