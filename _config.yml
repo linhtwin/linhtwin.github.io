@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi I’m Linh.  I love food and being around other people who also love food.
   Here is where you can find all the food-related things I’m currently working on.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://linh.win" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.linh.win"
 
 # Build settings
 remote_theme: hydecorp/hydejack
