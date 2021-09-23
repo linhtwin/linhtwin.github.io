@@ -35,3 +35,5 @@ gem "webrick", "~> 1.7"
 # Once the above works, we can remove these two.
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
+
+gem "jekyll-seo-tag"
