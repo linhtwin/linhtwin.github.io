@@ -33,7 +33,7 @@ Order below for pickup or delivery **on the date shown** in the product title.
 
 Pickup is at [Forage Kitchen, 478 25th Street, Oakland](https://g.page/forage-kitchen-oakland?share).
 
-Delivery available in Berkeley, Piedmont, Oakland, and Emeryville (+$5).
+Delivery available in Albany, Berkeley, Emeryville, Kensington, Oakland, and Piedmont.
 
 ## Order
 
