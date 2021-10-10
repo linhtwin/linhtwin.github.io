@@ -59,14 +59,16 @@ plugins:
 menu:
   - title: About
     url: /index
+  - title: Happenings
+    url: /happenings
   - title: Cheese Club
     url: /cheese-club
   - title: Meal Club
     url: /meal-club
-  - title: Classes & Events
-    url: /events
-  - title: Recent Happenings
-    url: /recent-happenings
+  - title: Private Events
+    url: /private-events
+  - title: Newsletter
+    url: /newsletter
 
 hydejack:
   no_breadcrumbs: true

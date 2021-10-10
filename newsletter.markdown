@@ -1,12 +1,12 @@
 ---
-title: Classes & Events
+title: Newsletter
 layout: page
-permalink: /events/
+permalink: /newsletter/
 ---
 
-## Classes
+## Keep Up
 
-Classes will occur once in a while.  To be in the know, please sign up for the newsletter:
+To be in the know for all of the different things I'm up to, please sign up for the newsletter:
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -52,6 +52,4 @@ Classes will occur once in a while.  To be in the know, please sign up for the n
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-## Events
 
-For private events, please [email me](mailto:{{ site.author.social.email }}).

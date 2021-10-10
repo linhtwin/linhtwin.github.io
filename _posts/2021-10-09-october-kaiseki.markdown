@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2021 October Kaiseki"
+title:  "2021 October 31 Kaiseki"
 ---
 
 * this unordered seed list will be replaced by the table of contents
@@ -12,7 +12,7 @@ This supper club is going to focus on kaiseki, or Japanese formal dining.  The m
 
 Before each course, we will do a quick explanation of the dish, its origin/conception and how it fits into the kaiseki format.  The meal will be grounded in kaiseki traditions with some creative license taken to make the most of our wonderful California bounty.
 
-## 2021 OCTOBER 31 KAISEKI MENU
+## MENU
 
 <div style="text-align: center">
     <p ></p>
