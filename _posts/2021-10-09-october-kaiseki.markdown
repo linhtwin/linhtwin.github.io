@@ -12,11 +12,8 @@ This supper club is going to focus on kaiseki, or Japanese formal dining.  The m
 
 Before each course, we will do a quick explanation of the dish, its origin/conception and how it fits into the kaiseki format.  The meal will be grounded in kaiseki traditions with some creative license taken to make the most of our wonderful California bounty.
 
-## MENU
-
 <div style="text-align: center">
-    <p ></p>
-    <p ></p>
+    <h2 id="menu">MENU</h2>
     <p >
     <span style="font-weight: bold">- Clear soup -</span>
     </p>
