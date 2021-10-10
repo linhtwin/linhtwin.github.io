@@ -12,7 +12,7 @@ This supper club is going to focus on kaiseki, or Japanese formal dining.  The m
 
 Before each course, we will do a quick explanation of the dish, its origin/conception and how it fits into the kaiseki format.  The meal will be grounded in kaiseki traditions with some creative license taken to make the most of our wonderful California bounty.
 
-## MENU
+## 2021 OCTOBER 31 KAISEKI MENU
 
 <div style="text-align: center">
     <p ></p>
@@ -114,7 +114,7 @@ Before each course, we will do a quick explanation of the dish, its origin/conce
 ## Reserving your spot
 Seating is very limited, but if you know might be interested, please feel free to forward this email.  As of now, we are thinking we'd like to seat somewhere between 8-15 people.
 
-The event will be 1pm-4pm on October 31 in a residential backyard in south Berkeley.
+**The event will be 1pm-4pm on October 31** in a residential backyard in south Berkeley.
 
 Proof of vaccination will be required.
 
