@@ -1,5 +1,7 @@
 name: Build and deploy Jekyll site to GitHub Pages
 
+# Runs https://github.com/helaili/jekyll-action/blob/master/README.md
+
 on:
   push:
     branches:
