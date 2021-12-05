@@ -6,7 +6,7 @@ permalink: /meal-club/
 
 ## What is meal club?
 
-The meal club is a once a week meal pickup.  Each meal comes packed in reusable/exchangeable containers and are always vegetarian.  The goal behind these meals is to introduce people to new flavors, personal stories, and unfamiliar cultures.
+Once a week, I cook meals and invite club members to purchase them and pick them up.  Each meal comes packed in reusable containers and are always vegetarian.  The goal is to introduce people to new flavors, personal stories, and unfamiliar cultures.
 
 ## Why are you doing this?
 
@@ -20,7 +20,9 @@ Mostly things that I like to cook but don't do regularly, but are maybe a little
 
 ## What comes with each meal?
 
-You will get 2 containers for every main meal that are dishwasher and microwave safe.  If you get dessert, you get an extra container with your pickup.  All meals are vegan and gluten free unless otherwise noted.  When you come to pick up your next meal, you drop off the containers from the last meal so we don't have to deal with single use containers.
+Enough food for a normal size entree.  Sometimes it will be rice with a few dishes.  Sometimes it will be one main dish.
+
+Each meal comes in reusable containers that are dishwasher and microwave safe.  When you come to pick up your next meal, you drop off the containers from the last meal so we don't have to deal with single use containers.
 
 Each meal will also come with reheating instructions, a guide on how to serve the food and descriptions on each individual dish.
 
@@ -35,10 +37,6 @@ Pickup is in south Berkeley.
 ## How much will it cost?
 
 There is a one time membership fee of $15.  Main meal is $15.  Dessert/extra is $5.
-
-## What do you get for $15?
-
-Enough food for a normal size entree.  Sometimes it will be rice with a few dishes.  Sometimes it will be one main dish.
 
 ## How do I sign up?
 
