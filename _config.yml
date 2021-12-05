@@ -31,10 +31,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.linh.win"
 
 # Build settings
-remote_theme: hydecorp/hydejack
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
