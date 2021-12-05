@@ -18,15 +18,15 @@ I want you to take the time to travel to another place or another time when you 
 
 Mostly things that I like to cook but don't do regularly, but are maybe a little bit more involved or that I came across at some point during my travels or food from my childhood that might be hard to find in a restaurant.  Everything will be vegetarian. Sometimes there will be egg.  Sometimes it'll be vegan and/or gluten free.
 
-## What comes with each meal pickup?
+## What comes with each meal?
 
-You will get 2 containers for every main meal that are dishwasher/microwave safe.  If you get dessert, you get an extra container with your pickup.  All meals are vegan/gluten free unless otherwise noted.  When you come to pick up your next meal, you drop off the containers from the last meal so we don't have to deal with single use containers.
+You will get 2 containers for every main meal that are dishwasher and microwave safe.  If you get dessert, you get an extra container with your pickup.  All meals are vegan and gluten free unless otherwise noted.  When you come to pick up your next meal, you drop off the containers from the last meal so we don't have to deal with single use containers.
 
 Each meal will also come with reheating instructions, a guide on how to serve the food and descriptions on each individual dish.
 
 ## How often do you get meals if you join?
 
-Meals will be available for pickup every Thursday of the month.
+Meals will be available for pickup every Thursday.
 
 ## How do you get the food?
 
